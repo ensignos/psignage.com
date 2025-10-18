@@ -1,0 +1,18 @@
+html,
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+  display: grid;
+}
+
+@font-face {
+  font-family: 'Gentium-Regular';
+  src: url('../fonts/Gentium-7.000/Gentium-Regular.ttf') format('truetype');
+}
+
+.gentiumRegular {
+  font-family: 'Gentium-Regular';
+}
